@@ -36,3 +36,8 @@
 		@include button();
 	}
 }
+
+#service{
+	background-color:$background-color2;
+	min-height: 80vh;
+}
